@@ -4,10 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+train.js
+index.html
 # testing
 /coverage
-
+.env
 # next.js
 /.next/
 /out/
