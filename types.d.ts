@@ -1,4 +1,3 @@
-// import { MouseEventHandler } from 'react';
 interface CarDetailsProps {
   isOpen: boolean;
   closeModal: () => void;
